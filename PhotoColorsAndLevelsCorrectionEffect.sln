@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{303e6375-06d4-42ad-bc19-8e94d7501bc8}") = "PhotoColorsAndLevelsCorrectionEffect", "PhotoColorsAndLevelsCorrectionEffect\PhotoColorsAndLevelsCorrectionEffect.csproj", "{95fc7a6c-e4fa-4bee-8101-a1670efbfbc8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95fc7a6c-e4fa-4bee-8101-a1670efbfbc8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95fc7a6c-e4fa-4bee-8101-a1670efbfbc8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95fc7a6c-e4fa-4bee-8101-a1670efbfbc8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95fc7a6c-e4fa-4bee-8101-a1670efbfbc8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {667100e5-7533-4388-9dfa-b7fee2fa874c}
+	EndGlobalSection
+EndGlobal
